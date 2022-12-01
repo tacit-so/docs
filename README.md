@@ -1,4 +1,4 @@
-# 👋 Welcome to A Product
+# 👋 Welcome to Tacit Docs
 
 {% hint style="info" %}
 **GitBook tip:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
@@ -38,8 +38,4 @@ We've put together some helpful guides for you to get setup with our product qui
 
 {% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
 [setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}
-[inviting-members.md](fundamentals/getting-set-up/inviting-members.md)
 {% endcontent-ref %}
